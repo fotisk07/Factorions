@@ -1,8 +1,8 @@
 # Factoids
-This is a simple Python script with the sole purpose of finding `Factoids`.
-A `Factoid` is a number that satisfies the wonderful property of having the sum of the factorials of its digits equal to the number it self. A characteristic example is number 145 as 1! + 4! + 5! = 145 hence 145 is a `Factoid`. Note that n! is the product of all positive integers less than or equal to n. For example 5! = 5 * 4 * 3 * 2 * 1 = 120
+This is a simple Python script with the sole purpose of finding `Factorions`.
+A `Factorion` is a number that satisfies the wonderful property of having the sum of the factorials of its digits equal to the number it self. A characteristic example is number 145 as 1! + 4! + 5! = 145 hence 145 is a `Factoid`. Note that n! is the product of all positive integers less than or equal to n. For example 5! = 5 * 4 * 3 * 2 * 1 = 120
 
-There are only 4 factoids namely 1, 2, 145, 40585.
+There are only 4 factorions namely 1, 2, 145, 40585.
 
 ## Getting Started
 
